@@ -12,7 +12,7 @@ Click on "File" -> "Save Copy As..." to save copy of current file.
 
 All of Sublime Terminal is licensed under the GPL2 license.
 
-Copyright (c) 2014 Nick Böcker (email : theskyliner@arcor.de)
+Copyright (c) 2014 Nick Böcker (email : it@theskyliner.de)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as 
