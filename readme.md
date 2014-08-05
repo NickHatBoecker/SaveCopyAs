@@ -2,7 +2,7 @@
 
 Save copy of a file without opening it.
 
-Tested on Windows with Sublime Text 3
+Tested on Windows and Linux with Sublime Text 3
 
 ## Usage
 
