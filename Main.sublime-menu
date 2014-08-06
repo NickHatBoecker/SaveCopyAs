@@ -8,7 +8,7 @@
             {
                 "caption": "Save Copy As...",
                 "mnemonic": "k",
-                "command": "save_copy_as",
+                "command": "save_copy_as"
             }
         ]
     }
