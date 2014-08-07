@@ -7,7 +7,7 @@ class SaveCopyAsCommand(sublime_plugin.TextCommand):
     def run(self, edit):
         fileName = self.view.file_name()
         if fileName == None:
-            print("You have to save the file first!")
+            sublime.error_message("You have to save the file first!")
             return
 
         now = datetime.datetime.now()
