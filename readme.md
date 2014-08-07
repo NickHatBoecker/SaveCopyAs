@@ -2,7 +2,13 @@
 
 Save copy of a file without opening it.
 
-Tested on Windows and Linux with Sublime Text 3.
+Tested on
+- Windows
+- Linux
+
+Tested with
+- Sublime Text 2
+- Sublime Text 3
 
 ## Usage
 
@@ -12,6 +18,9 @@ Click on "File" -> "Save Copy As..." to save copy of current file.
 
 ### v1.0.2
 removed trailing comma #1
+
+### v1.0.3
+show error message when file was not saved
 
 ## License
 
