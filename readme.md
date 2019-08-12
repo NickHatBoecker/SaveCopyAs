@@ -1,5 +1,7 @@
 # Sublime Text - Save Copy As
 
+[![SublimeBadge](http://sublime-badge.nick-hat-boecker.de/badge/total/Save%20Copy%20As.svg/)](http://sublime-badge.nick-hat-boecker.de/) [![SublimeBadge](http://sublime-badge.nick-hat-boecker.de/badge/osx/Save%20Copy%20As.svg/)](http://sublime-badge.nick-hat-boecker.de/) [![SublimeBadge](http://sublime-badge.nick-hat-boecker.de/badge/windows/Save%20Copy%20As.svg/)](http://sublime-badge.nick-hat-boecker.de/) [![SublimeBadge](http://sublime-badge.nick-hat-boecker.de/badge/linux/Save%20Copy%20As.svg/)](http://sublime-badge.nick-hat-boecker.de/)
+
 Save copy of a file without opening it.
 
 Tested on
