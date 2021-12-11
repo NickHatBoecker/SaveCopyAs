@@ -1,13 +1,11 @@
 [
     {
-        "caption": "File",
-        "mnemonic": "f",
         "id": "file",
         "children":
         [
             {
                 "caption": "Save Copy As...",
-                "mnemonic": "k",
+                "mnemonic": "s",
                 "command": "save_copy_as"
             }
         ]
