@@ -24,6 +24,9 @@ removed trailing comma #1
 ### v1.0.3
 show error message when file was not saved
 
+### v1.0.4
+fix mnemonics (see [#3](https://github.com/NickHatBoecker/SaveCopyAs/issues/3))
+
 ## License
 
 All of Sublime Terminal is licensed under the GPL2 license.
